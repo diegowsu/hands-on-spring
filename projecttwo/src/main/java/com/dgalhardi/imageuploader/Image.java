@@ -1,4 +1,4 @@
-package com.wesleyfuchter.imageuploader;
+package com.dgalhardi.imageuploader;
 
 import lombok.*;
 

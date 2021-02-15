@@ -1,4 +1,4 @@
-package com.wesleyfuchter.imageuploader;
+package com.dgalhardi.imageuploader;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
